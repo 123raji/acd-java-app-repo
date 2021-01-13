@@ -1,1 +1,3 @@
-# acd-java-app-repo
+# maven-project
+
+Simple Maven Project
